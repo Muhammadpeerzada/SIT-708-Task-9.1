@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lost and Found</string>
+    <string name="my_app_icon">My App Icon</string>
+    <string name="my_app_name">Lost and Found</string>
+    <string name="create_new_post">Create New Post</string>
+    <string name="all_posts"><![CDATA[All Lost & Found Items]]></string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="post_type">Post Type:</string>
+    <string name="description_tag_hint">Describe the item</string>
+    <string name="phone">Phone:</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="description">Description:</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="location">Location:</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="date">Date:</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="remove_post">Remove Post</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="get_my_location">Get Current Location</string>
+</resources>
